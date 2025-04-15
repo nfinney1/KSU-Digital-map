@@ -8,6 +8,8 @@
 - [ ] Add "Contact Us" page
 - [x] Embed Google Maps on homepage
 - [x] Style the homepage with custom CSS
+- [x] Embed google maps on homepage
+- [x] Style the homepage with custom CSS
 
 ## Emerging Tasks
 - [ ] Test mobile responsiveness
@@ -17,5 +19,5 @@
 ## Completed
 - Flask setup
 - Homepage created
-- Style with CSS created
-- Google maps embedded
+
+
