@@ -6,7 +6,8 @@
 - [ ] Implement search functionality for campus buildings
 - [ ] Add "About" page
 - [ ] Add "Contact Us" page
-- [ ] Style the homepage with custom CSS
+- [x] Embed google maps on homepage
+- [x] Style the homepage with custom CSS
 
 ## Emerging Tasks
 - [ ] Test mobile responsiveness
@@ -16,5 +17,7 @@
 ## Completed
 - Flask setup
 - Homepage created
+- Style with CSS created
+- Google maps embedded
 
 
